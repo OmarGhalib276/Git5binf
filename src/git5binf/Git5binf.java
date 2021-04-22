@@ -5,9 +5,8 @@
  */
 package git5binf;
 
-/**
- *
- * @author Studenti
+/*
+ * @author Ghalib Omar 5BINF
  */
 public class Git5binf {
 
@@ -15,7 +14,7 @@ public class Git5binf {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Messaggiooo");
     }
     
 }
